@@ -1,0 +1,25 @@
+{
+  "name": "curso_node_balta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopaza/node_curso_balta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopaza/node_curso_balta/issues"
+  },
+  "homepage": "https://github.com/diogopaza/node_curso_balta#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "http": "0.0.0"
+  }
+}
