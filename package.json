@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/server.js"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/diogopaza/node_curso_balta#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "debug": "^3.1.0",
     "express": "^4.16.2",
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "nodemon": "^1.14.11"
   }
 }
